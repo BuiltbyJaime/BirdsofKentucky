@@ -5,10 +5,11 @@ body {
 #header {
     font-size: 70px;
     color: #ff00d97f;
-    align: center;
+    margin: 20px;
     padding: 10px;
     background-color: #fffffffa;
-    ;
+    text-align: center;
+    box-sizing: border-box;
 }
 
 #birdNames{
@@ -18,8 +19,21 @@ body {
   padding: 10px;
   background-color: #ffffff;
   margin: 20px;
+  text-align:center;
+  box-sizing:border-box
+  width: 90vw
 }
 
 #image {
-align: center
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+
+  text-align: center;
+  padding: 10px;
+  background-color: #fffffffa;
+  margin: 20px;
 }
