@@ -1,1 +1,1 @@
-# BirdsofKentucky
+# This is a simple website that presents what I believe are the 5 most interesting birds that can be found in our beautifuly state of kentucky.  In no particular order.  In the fure I wish to include simple videos and more facts alongside their calls.  

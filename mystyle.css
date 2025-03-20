@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+  }
+
+
+
+#NorthCard {
+    font-size: 50px;
+    color: #ff00d97f;
+    align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #ccc;
+}
